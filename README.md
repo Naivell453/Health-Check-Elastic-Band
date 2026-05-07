@@ -52,6 +52,6 @@ SpO2 characteristic: 2A5F
 Temperature characteristic: 2A1C
 Alert code characteristic: 2A3F
 Alert codes: 0 is normal, 1 is heart rate out of range, 2 is low SpO2, 3 is fever, 4 is low body temperature.
-<img width="1463" height="709" alt="Captura de pantalla 2026-05-06 141453" src="https://github.com/user-attachments/assets/e5c737f8-dc47-4c4c-93ae-326c0eeee21e" />
-
 <img width="1469" height="706" alt="Captura de pantalla 2026-05-06 141431" src="https://github.com/user-attachments/assets/272dd2bc-878e-471d-8a26-622bc940c12a" />
+
+<img width="1463" height="709" alt="Captura de pantalla 2026-05-06 141453" src="https://github.com/user-attachments/assets/e5c737f8-dc47-4c4c-93ae-326c0eeee21e" />
